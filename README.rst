@@ -20,6 +20,10 @@ __ https://docs.rs/bencher/
 Recent Changes
 --------------
 
+- 0.1.6
+
+  - FORK! Only run benchmarks once for verification if `RUST_BENCHER_SKIP` env var defined
+
 - 0.1.5
 
   - Support trailing commas in the macros by @tbu-
